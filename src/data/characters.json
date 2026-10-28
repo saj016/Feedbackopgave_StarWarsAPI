@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "role": "Jedi",
+    "planet": "Tatooine"
+  },
+  {
+    "id": 2,
+    "name": "Darth Vader",
+    "role": "Sith Lord",
+    "planet": "Tatooine"
+  },
+  {
+    "id": 3,
+    "name": "Leia Organa",
+    "role": "Princess",
+    "planet": "Alderaan"
+  },
+  {
+    "id": 4,
+    "name": "Han Solo",
+    "role": "Smuggler",
+    "planet": "Corellia"
+  },
+  {
+    "id": 5,
+    "name": "Obi-Wan Kenobi",
+    "role": "Jedi Master",
+    "planet": "Stewjon"
+  },
+  {
+    "id": 6,
+    "name": "Yoda",
+    "role": "Jedi Master",
+    "planet": "Unknown"
+  },
+  {
+    "id": 7,
+    "name": "Finn",
+    "role": "Jedi",
+    "planet": "Unknown"
+  }
+]
